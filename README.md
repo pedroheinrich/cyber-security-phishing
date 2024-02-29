@@ -37,7 +37,18 @@
 ![VirtualBox_kali-linux-2023 4-virtualbox-amd64_28_02_2024_22_52_34](https://github.com/pedroheinrich/cyber-security-phishing/assets/97209403/e15cbda1-9ede-431e-9919-99b318b62c0e)
 
 
-10º Cole o link do Facebook para criar o site clone
+10º Cole o link do Facebook para criar o site clone http://www.facebook.com
 
 ![VirtualBox_kali-linux-2023 4-virtualbox-amd64_28_02_2024_22_54_24](https://github.com/pedroheinrich/cyber-security-phishing/assets/97209403/9d509900-a7e8-406e-b5b0-2c860e3f82c0)
+
+11º Site clonado com sucesso, copie o IP e abra em um navegador!
+
+![VirtualBox_kali-linux-2023 4-virtualbox-amd64_28_02_2024_22_55_59](https://github.com/pedroheinrich/cyber-security-phishing/assets/97209403/8b420dc2-8b83-4a7b-8388-d3f46895cb36)
+
+![image](https://github.com/pedroheinrich/cyber-security-phishing/assets/97209403/7c1fb717-ab09-425e-b9f3-b2cab19fab2e)
+
+11º Testando a página
+
+![image](https://github.com/pedroheinrich/cyber-security-phishing/assets/97209403/5e0fa3f9-a120-4357-b77e-c305cc7123a9)
+
 
